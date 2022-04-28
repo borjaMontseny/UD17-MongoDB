@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "626a65662cec004d64532d3d"
+  },
+  "fabricante": 1,
+  "nombre": "Playstation 5",
+  "precio": 500
+},{
+  "_id": {
+    "$oid": "626a6af72cec004d64532d6b"
+  },
+  "fabricante": 2,
+  "nombre": "Intel Core i7 6969",
+  "precio": "170"
+}]
