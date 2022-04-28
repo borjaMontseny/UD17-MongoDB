@@ -1,0 +1,9 @@
+[{
+  "_id": {
+    "$oid": "626a72cd8a2bd73921583d95"
+  },
+  "DNI": 48000835,
+  "DNIJefe": 93123455,
+  "despacho": 14,
+  "nomApels": "González Pérez"
+}]
