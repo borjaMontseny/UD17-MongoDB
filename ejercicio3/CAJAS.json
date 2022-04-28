@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "626a6cd32cec004d64532d77"
+  },
+  "contenido": "Bolígrafos",
+  "valor": 2,
+  "almacen": 1
+},{
+  "_id": {
+    "$oid": "626a6d1f2cec004d64532d78"
+  },
+  "almacen": "2",
+  "contenido": "Libretas",
+  "valor": "4"
+}]
