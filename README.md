@@ -1,2 +1,2 @@
 # UD17-MongoDB
-Actividades de la TA17
+JSON de las colecciones de las databases MongoDB de la TA17
