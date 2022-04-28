@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "626a723e8a2bd73921583d93"
+  },
+  "nombre": "Harry Petas",
+  "calificacionEdad": 16
+},{
+  "_id": {
+    "$oid": "626a72618a2bd73921583d94"
+  },
+  "nombre": "Marvel Avengers 3",
+  "calificacionEdad": 12
+}]

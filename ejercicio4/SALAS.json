@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "626a71078a2bd73921583d90"
+  },
+  "codigo": 2,
+  "nombre": "Sala Parejas",
+  "pelicula": 4
+},{
+  "_id": {
+    "$oid": "626a71c48a2bd73921583d91"
+  },
+  "codigo": 3,
+  "nombre": "Sala X",
+  "pelicula": 69
+},{
+  "_id": {
+    "$oid": "626a71e68a2bd73921583d92"
+  },
+  "codigo": 1,
+  "nombre": "Sala Kids",
+  "pelicula": 6
+}]
