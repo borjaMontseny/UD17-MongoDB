@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "626abe3967f7ba9c8439d2b7"
+  },
+  "DNI": "78000983",
+  "comienzo": {
+    "$date": {
+      "$numberLong": "993938400000"
+    }
+  },
+  "fin": {
+    "$date": {
+      "$numberLong": "993938400000"
+    }
+  },
+  "numSerie": "0024"
+}]
